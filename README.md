@@ -9,6 +9,7 @@ I'm currently focusing my study on the Back-end, but I have previous knowledge o
  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wennysantana&layout=compact&theme=swift"/>
 </div>
 
+
 ### 👩‍💻  Let's talk! 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/weiiis2)
@@ -16,6 +17,7 @@ I'm currently focusing my study on the Back-end, but I have previous knowledge o
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/endfahpe)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ohmmwah/)
   <img align="right" alt="wenny-pic" src="https://i.picasion.com/pic92/9558e847075146684fa2b2f72ab88dea.gif" width="125" height="125" border="0"/>
+  
 
 ### 🛠️ Programming languages and others I use 
 
