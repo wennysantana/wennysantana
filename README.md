@@ -5,8 +5,8 @@ My name is Wenny and I'm currently a Computer Science student.
 I'm currently focusing my study on the Back-end, but I have previous knowledge on the Front-end.
 
 <div> 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wennysantana&show_icons=true&theme=swift"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wennysantana&layout=compact&theme=swift"/>
+ <img height="100em" src="https://github-readme-stats.vercel.app/api?username=wennysantana&show_icons=true&theme=swift"/>
+ <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wennysantana&layout=compact&theme=swift"/>
 </div>
 
 ### 👩‍💻  Let's talk! 
