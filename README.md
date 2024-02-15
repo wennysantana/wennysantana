@@ -1,8 +1,5 @@
 ### 👋 Hello! Welcome! 
-
-My name is Wenny and I'm currently a Computer Science student.
-
-I'm currently focusing my study on the Back-end, but I have previous knowledge on the Front-end.
+My name is Wenny Santana, I'm currently studying Computer Science and I'm studying to become a Front-End developer.
 
 <div> 
  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wennysantana&show_icons=true&theme=swift"/>
@@ -24,7 +21,6 @@ I'm currently focusing my study on the Back-end, but I have previous knowledge o
 <div>
   <img align="center" alt="wenny-html" height ="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
   <img align="center" alt="wenny-html" height ="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="wenny-html" height ="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="wenny-html" height ="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />           
+  <img align="center" alt="wenny-html" height ="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>           
 </div>
 
