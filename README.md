@@ -1,26 +1,56 @@
-### 👋 Hello! Welcome! 
-My name is Wenny Santana, I'm currently studying Computer Science and I'm studying to become a Front-End developer.
+# 👋 Hello, Welcome to My Profile!
+
+My name is **Wenny Santana**, I'm currently studying **Computer Science** and on my way to becoming a **Front-End Developer**. 🚀
+
+---
+
+### 🚀 About Me
+
+I'm passionate about building beautiful and responsive websites. With a solid foundation in HTML, CSS, and JavaScript, I’m always excited to learn new technologies and improve my coding skills.
+
+- 🌱 I’m currently learning **VueJs** and **TypeScript**.
+- 🔭 I’m working on personal projects to enhance my front-end development skills.
+- 💬 Feel free to ask me about web development, coding practices, or anything tech-related!
+- 📬 You can reach me via my [LinkedIn](https://www.linkedin.com/in/wenny-santana/).
+
+---
+
+### 🧑‍💻 My GitHub Stats
 
 <div> 
  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wennysantana&show_icons=true&theme=swift"/>
  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wennysantana&layout=compact&theme=swift"/>
 </div>
 
+---
 
-### 👩‍💻  Let's talk! 
+### 🛠️ Technologies & Tools I Use
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/weiiis2)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wenny-santana/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/endfahpe)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ohmmwah/)
-  <img align="right" alt="wenny-pic" src="https://i.picasion.com/pic92/9558e847075146684fa2b2f72ab88dea.gif" width="125" height="125" border="0"/>
-  
-
-### 🛠️ Programming languages and others I use 
+Here’s a quick look at the tools I frequently use and love:
 
 <div>
-  <img align="center" alt="wenny-html" height ="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-  <img align="center" alt="wenny-html" height ="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="wenny-html" height ="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>           
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>           
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
 </div>
 
+---
+
+### 📬 Let's Connect! 
+
+- [LinkedIn](https://www.linkedin.com/in/wenny-santana/) 
+- [GitHub](https://github.com/wennysantana) 
+- [Email](mailto:wensantana13@gmail.com) 
+
+---
+
+### 🔥 Fun Fact
+
+When I'm not coding, I enjoy **reading tech blogs**, **listening to music**, and learning about **emerging technologies**. 🎧📚
+
+---
+
+### 👩‍💻 Picture of Me
+
+<img align="right" alt="wenny-pic" src="https://i.picasion.com/pic92/9558e847075146684fa2b2f72ab88dea.gif" width="125" height="125" border="0"/>
