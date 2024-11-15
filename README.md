@@ -2,7 +2,7 @@
 
 My name is **Wenny Santana**, I'm currently studying **Computer Science** and on my way to becoming a **Front-End Developer**. 🚀
 
----
+
 
 ### 🚀 About Me
 
@@ -13,7 +13,7 @@ I'm passionate about building beautiful and responsive websites. With a solid fo
 - 💬 Feel free to ask me about web development, coding practices, or anything tech-related!
 - 📬 You can reach me via my [LinkedIn](https://www.linkedin.com/in/wenny-santana/).
 
----
+
 
 ### 🧑‍💻 My GitHub Stats
 
@@ -22,7 +22,7 @@ I'm passionate about building beautiful and responsive websites. With a solid fo
  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wennysantana&layout=compact&theme=swift"/>
 </div>
 
----
+
 
 ### 🛠️ Technologies & Tools I Use
 
@@ -35,7 +35,7 @@ Here’s a quick look at the tools I frequently use and love:
   <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
 </div>
 
----
+
 
 ### 📬 Let's Connect! 
 
@@ -43,14 +43,4 @@ Here’s a quick look at the tools I frequently use and love:
 - [GitHub](https://github.com/wennysantana) 
 - [Email](mailto:wensantana13@gmail.com) 
 
----
 
-### 🔥 Fun Fact
-
-When I'm not coding, I enjoy **reading tech blogs**, **listening to music**, and learning about **emerging technologies**. 🎧📚
-
----
-
-### 👩‍💻 Picture of Me
-
-<img align="right" alt="wenny-pic" src="https://i.picasion.com/pic92/9558e847075146684fa2b2f72ab88dea.gif" width="125" height="125" border="0"/>
